@@ -16,10 +16,15 @@ The application should only continue if the user enters “y” or “Y”.
 
 ### Hints:
 Grade Ranges:
+
 A : 100 - 88
+
 B : 87 - 80
+
 C :  79 - 67
+
 D : 66 - 60
+
 F : 60 - 0
 
 ### Extended Challenge:
